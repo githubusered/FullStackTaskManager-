@@ -9,8 +9,8 @@ Features
 -Security Best Practices: Includes basic security practices, such as securing routes and validating inputs.
 
 Tech Stack
-*Frontend: React
-*Backend: Node.js, Express.js
-*Database: MongoDB (or any other database of your choice)
-*Deployment: Example of deployment on AWS (or other cloud services)
+*Frontend: React*
+*Backend: Node.js, Express.js*
+*Database: MongoDB (or any other database of your choice)*
+-Deployment: Example of deployment on AWS (or other cloud services)-
 
